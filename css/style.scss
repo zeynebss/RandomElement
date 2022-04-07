@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+ 
+    .random-area{
+     padding-top: 2rem;
+       button{
+     background: none;
+     border: 1px solid brown;
+     color: brown;
+     padding: 1rem 2rem;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     border-radius: 5px;
+     font-weight: 700;
+
+  }
+  .select-area{
+    margin-top: 2rem;
+    padding: 1rem;
+
+    label
+   {
+     input{
+       cursor: pointer;
+     }
+    color: brown;
+   }}
+h2{
+   color: brown;
+   font-size: 20px;
+   text-decoration: underline;
+}
+#nothing{
+  p{
+    color: brown;
+  }
+}
+          
+       }
+    }

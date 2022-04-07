@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: beige;
+}
+
+* .random-area {
+  padding-top: 2rem;
+}
+
+* .random-area button {
+  background: none;
+  border: 1px solid brown;
+  color: brown;
+  padding: 1rem 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+* .random-area .select-area {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+* .random-area .select-area label {
+  color: brown;
+}
+
+* .random-area .select-area label input {
+  cursor: pointer;
+}
+
+* .random-area h2 {
+  color: brown;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+* .random-area #nothing p {
+  color: brown;
+}
+/*# sourceMappingURL=style.css.map */
